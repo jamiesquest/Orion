@@ -1,5 +1,5 @@
 # Orion
-Minimalist Mini-Game about breaking orbs.
+Minimalist Mini-Game about breaking orbs. The inspiration came from old Windows 95/98 games.
 
 Click and drag downward on the lower half of the screen to form a spinning Square, then release to send the Square flying in the opposite direciton. Players must launch the Square at the orbs constantly forming above them to raise their score and keep the timer from running out. Some Orbs will have Power-Ups inside them, allowing the Players Square to speed up, bounce off walls more, or penetrate through more orbs. Once the player's speed is high enough, they will enter a HYPER mode, where the square moves so fast, it instantly cuts through as many orbs as it can on screen. Be careful however, because as you progress through the waves, the orbs become increasingly smaller and spawn more frequently. 
 
