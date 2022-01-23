@@ -6,3 +6,15 @@ Click and drag downward on the lower half of the screen to form a spinning Squar
 Orion is programmed in C++ using SFML as a game framwork. II programmed an animation controller to determine the state of the Player Square and Orbs (Forming, Launching, Dying, etc). I also programmed a particle system for special effects, such as when the Player Square flies through the air or when it hits a wall.
 
 All sprites and programming by Jamie.
+
+# Screenshots
+
+![1](/Screenshots/00.png)
+
+![2](/Screenshots/01.png)
+
+![3](/Screenshots/02.png)
+
+![4](/Screenshots/03.png)
+
+![5](/Screenshots/04.png)
